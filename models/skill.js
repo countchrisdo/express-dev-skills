@@ -1,7 +1,9 @@
 const skills = [
-    {id: 118674, skill: "Git version control"},
-    {id: 120587, skill: "Vanilla JavaScript Proficient"},
-    {id: 208569, skill: "MERN Stack Proficient"}
+    {id: 000001, skill: "Javascript"},
+    {id: 000002, skill: "CSS"},
+    {id: 000003, skill: "HTML"},
+    {id: 000004, skill: "Express (sorta)"},
+
 ];
 module.exports = {
     getAll,
