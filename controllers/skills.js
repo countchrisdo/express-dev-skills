@@ -5,7 +5,7 @@ module.exports = {
     show,
     new: newSkill,
     create,
-    delete: deleteSkill
+    delete: deleteSkill,
 }
 
 function deleteSkill(req, res) {
