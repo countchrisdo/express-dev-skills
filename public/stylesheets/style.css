@@ -1,26 +1,8 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background: steelblue;
-  color: white;
+  background-color: lightgray;
+  padding-bottom: 20px;
 }
 
-a {
-  color: sandybrown;
-  text-decoration: none;
+.navbar {
+  margin-bottom: 20px;
 }
-
-a:hover {
-  text-decoration: underline;
-}
-
-button {
-  color: sandybrown;
-  background-color: black;
-  font-weight: bold;
-}
-
-button:hover {
-  background-color: steelblue;
-}
-
